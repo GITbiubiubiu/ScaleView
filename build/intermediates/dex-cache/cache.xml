@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/bongmi/ScaleView/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/home/bongmi/ScaleView/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_fdd10bf24eb630a17becf58bd8a0997c7a068294.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bongmi/ScaleView/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/bongmi/ScaleView/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_e0d984d5e844e429be4fbe633f9b9ee884310035.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bongmi/ScaleView/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/home/bongmi/ScaleView/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_756142d97bf9271ec0c4418e07c5ad86fbb03b0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bongmi/ScaleView/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/home/bongmi/ScaleView/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_01779b7c07dd76cb73973e8448d24f0ca6faaf55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bongmi/ScaleView/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/home/bongmi/ScaleView/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_9f8cd517dde1089b8ee485816e7a7cdd3e85d422.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bongmi/ScaleView/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/bongmi/ScaleView/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_9f40bd955b563358b1f9dccdb4a6b847f3c495ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bongmi/ScaleView/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/home/bongmi/ScaleView/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_4135389408add642eeba8cf2b7c6963f4f60999d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bongmi/ScaleView/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/home/bongmi/ScaleView/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_e27d5185fec1c42dcbda122ef14cd9d709b8367e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bongmi/ScaleView/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/home/bongmi/ScaleView/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_9906ebf347aee6a3a3417694fc9b51f3b0ac6003.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bongmi/ScaleView/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/home/bongmi/ScaleView/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.0_8eb4907653d3ba8926652d7c87107f1208a0b719.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bongmi/ScaleView/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/home/bongmi/ScaleView/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_525fcc91b2aaea888aa7cefa36e0b79b05a06fb0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bongmi/ScaleView/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/home/bongmi/ScaleView/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_5cd1fc5ce5d3d119206a6e847d3a73522502815e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bongmi/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/home/bongmi/ScaleView/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_9b4d276d569772000a86a5a69094d876c5cb4873.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bongmi/ScaleView/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/home/bongmi/ScaleView/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_b9dae444d4a3e7652928e29fa582037df983664b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bongmi/ScaleView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/home/bongmi/ScaleView/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_9a9eea0948bc31c34971da8317f51f20e7c606ff.jar" />
+    </item>
+
+</items>
